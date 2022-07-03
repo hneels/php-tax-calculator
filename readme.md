@@ -20,4 +20,4 @@ In Version2, the design is improved to store the data about minimum and maximum 
 
 ## Screenshot
 
-<img src="./screenshot.png" alt="screenshot of tax calculator" width="300px" />
+<img src="./screenshot.png" alt="screenshot of tax calculator" width="500px" />
