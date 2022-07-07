@@ -1,6 +1,6 @@
 # Income Tax Calculator
 
-*This project was an assignment for BU MET CS602: Server-Side Web Development. Copying any portion of it is strictly prohibited and is a violation of Boston University's Academic Conduct Code.*
+*This project was an assignment for BU MET CS602: Server-Side Web Development. Copying any portion and submitting it as your own work is a violation of Boston University's Academic Conduct Code and is prohibited.*
 
 ## Technologies:
 * PHP
