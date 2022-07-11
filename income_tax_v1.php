@@ -143,7 +143,7 @@ function incomeTaxHeadOfHousehold($taxableIncome) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>HW4 Part1 - Asher</title>
+    <title>HW4 Part1 - Hope Neels</title>
 
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 
